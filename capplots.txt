@@ -1,0 +1,26 @@
+medcap.eps:
+
+    5000 iterations
+    180 size
+    10 thickness
+    60 width
+    10 gap
+    20 potential (Volts)
+
+lowcap.eps: A goofy test just to show a diversity in plots.
+
+    5000 iterations
+    180 size
+    20 thickness
+    150 width
+    40 gap
+    20 potential (Volts)
+
+highcap.eps: Testing the smallest gap possible with very thin plates and high potential.
+
+    5000 iterations
+    180 size
+    2 thickness
+    100 width
+    1 gap
+    50 potential (Volts)
